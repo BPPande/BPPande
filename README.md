@@ -1,5 +1,10 @@
 ### Hi Bhakti 👋
 
+ - 🔭 I'm working in Cybage Software Pvt Ltd as a Software Engineer.
+ - 🌱 I’m currently learning asp .net core  with real time project.
+ - 👯 I’m looking to collaborate on Azure cloud .
+ - 📫 You can reach me: 
+ - I have total 6+ years of experience as a .net developer.
 <!--
 **BPPande/BPPande** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
